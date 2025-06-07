@@ -1,5 +1,6 @@
+<!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=14F7FF&center=true&vCenter=true&width=440&lines=Hi+%F0%9F%91%8B%2C+I'm+Ukrit+Fongsomboon;Backend+Developer;Go+Lover;Clean+Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00FEEF&center=true&vCenter=true&width=480&lines=Fullstack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;DevOps+Engineer+%F0%9F%A7%B0;Golang+%7C+Next.js+%7C+Kubernetes;Cloud+Native+%7C+CI%2FCD+%7C+IaC;From+Code+to+Cluster+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </p>
 <p align="center">
   <a href="https://github.com/ukritfongsomboon">
